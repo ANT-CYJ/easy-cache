@@ -22,6 +22,6 @@ https://github.com/ANT-CYJ/easy-cache/issues
 ## 关于作者
 
 - 个人主页：https://github.com/ANT-CYJ
-- 收款二维码
+- 为我加油
 
     <img src="res/paycode.jpeg" width="30%" height="30%" />
