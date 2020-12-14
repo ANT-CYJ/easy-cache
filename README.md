@@ -24,4 +24,4 @@ https://github.com/ANT-CYJ/easy-cache/issues
 - 个人主页：https://github.com/ANT-CYJ
 - 收款二维码
 
-    <img src="res/paycode.jpeg" width="100" height="100" />
+    <img src="res/paycode.jpeg" width="30%" height="30%" />
