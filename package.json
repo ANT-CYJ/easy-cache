@@ -1,5 +1,5 @@
 {
-  "name": "easy-cache",
+  "name": "easy-cache-npm",
   "version": "0.0.2",
   "description": "轻量易用的前端缓存工具，防止内存泄漏",
   "main": "src/index.js",
