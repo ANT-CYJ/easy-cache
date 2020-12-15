@@ -1,6 +1,6 @@
 {
   "name": "easy-cache",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "轻量易用的前端缓存工具，防止内存泄漏",
   "main": "src/index.js",
   "scripts": {
@@ -31,5 +31,7 @@
     "webpack": "^5.10.1",
     "webpack-cli": "^4.2.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "user": "0.0.0"
+  }
 }

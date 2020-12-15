@@ -18,3 +18,9 @@ cache.set("a", 100);
 ```js
 alert(cache.get("a"));
 ```
+
+## 清空
+
+```js
+cache.clear();
+```

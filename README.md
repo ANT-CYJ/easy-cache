@@ -8,6 +8,10 @@
 
 ## 安装下载
 
+- 下载地址 https://github.com/ANT-CYJ/easy-cache/releases
+- `npm i fast-cache-npm`
+-
+
 ## 快速使用
 
 简单接入的文档
