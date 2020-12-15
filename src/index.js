@@ -1,1 +1,13 @@
-alert("easy-cache");
+class EasyCache {
+  constructor() {
+    this.list = {};
+  }
+  set(key, value) {
+    this.list[key] = value;
+  }
+  get(key) {
+    return this.list[key];
+  }
+}
+
+window.EasyCache = EasyCache;
