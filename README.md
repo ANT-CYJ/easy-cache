@@ -2,7 +2,7 @@
 
 轻量易用的前端缓存工具，防止内存泄漏
 
-- 官网：https://ant-cyj.github.io/
+- 作者主页：https://ant-cyj.github.io/
 
 ## 简介
 
